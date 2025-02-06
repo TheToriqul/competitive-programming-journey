@@ -1,0 +1,91 @@
+# ========================
+# 🔹 General Build Files 🔹
+# ========================
+
+# Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Precompiled header files
+*.gch
+*.pch
+
+# Compiled static libraries
+*.a
+*.lib
+*.lai
+*.la
+
+# Compiled dynamic/shared libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executable binaries
+*.exe
+*.out
+*.app
+
+# Prerequisite files
+*.d
+
+# ==========================
+# 🔹 IDE & Editor Settings 🔹
+# ==========================
+
+# VS Code workspace and settings
+.vscode/
+*.code-workspace
+
+# Code Runner cache files
+*.coderunner
+
+# Personal or system-specific config files
+*.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# =========================
+# 🔹 Build & Debug Files 🔹
+# =========================
+
+# Build output directories
+/build/
+/debug/
+/dist/
+/bin/
+/lib/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Clang compilation database
+compile_commands.json
+
+# Debugging and core dump files
+*.dSYM/
+*.core
+*.gch  # Also listed under precompiled headers
+
+# ================================
+# 🔹 Documentation & Generated Files 🔹
+# ================================
+
+# Auto-generated documentation and reports
+/docs/
+/html/
