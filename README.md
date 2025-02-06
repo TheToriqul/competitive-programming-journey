@@ -21,3 +21,7 @@ Welcome to my **Competitive Programming Journey**! 🚀 This repository serves a
 
 ### 🤝 Contributions  
 This is my personal learning space, but if you have suggestions, feel free to open an issue!  
+
+---
+
+Thank you for visiting this repository and joining me on this exciting learning journey. I hope you find the repository insightful and valuable. Happy coding! 🚀
