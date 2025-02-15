@@ -1,0 +1,8 @@
+C 4 25 15000 green
+C 4 25 15000 yellow
+M 7 20 18000 silver
+S 5 18 22000 blue
+S 5 18 22000 silver
+S 5 18 22000 green
+C 4 25 15000 white
+S 5 18 22000 black
